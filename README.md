@@ -1,1 +1,1 @@
-# FFT_Lab2
+# Exercises on FFT
